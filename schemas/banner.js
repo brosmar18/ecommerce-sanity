@@ -51,5 +51,10 @@ export default {
             title: 'Discount',
             type: 'string'
         },
+        {
+            name: 'saleTime',
+            title: 'SaleTime',
+            type: 'string'
+        }
     ]
 }
