@@ -22,7 +22,9 @@ export default {
             type: 'string'
         },
         {
-
-        }
+            name: 'desc',
+            title: 'Desc',
+            type: 'string'
+        },
     ]
 }
