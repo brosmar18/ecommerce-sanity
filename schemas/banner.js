@@ -11,6 +11,10 @@ export default {
                 hotspot: true,
             }
         },
-        
+        {
+            name: 'buttonText',
+            title: 'ButtonText',
+            type: 'string'
+        },
     ]
 }
